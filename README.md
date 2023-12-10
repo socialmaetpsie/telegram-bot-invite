@@ -2,9 +2,9 @@
 
 
 <h2><strong>Online Support</strong></h2>
+
 <table>
   <tr>
-  
     <td>
       <a href="https://t.me/IonicSupport" rel="nofollow">
         <img src="https://i.ibb.co/QNgG46g/tg2.png" alt="tg2">
